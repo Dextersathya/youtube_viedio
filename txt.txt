@@ -1,0 +1,1 @@
+python best_continuous_highlight.py "output_shorts_zoom.mp4" "output.mp4"
